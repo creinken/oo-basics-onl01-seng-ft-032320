@@ -9,5 +9,7 @@ class Shoe
   
   def cobble
     puts ""
+    @condition = new
+  end
   
 end
